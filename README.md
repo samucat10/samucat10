@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @samucat10
-- 👀I'm Interested In Making Friday Night Funkin' Mods
+Hi, I’m @samucat10 👋
+I'm Interested In Making Friday Night Funkin' Mods 👀
 
 
 <!---
